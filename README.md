@@ -1,4 +1,4 @@
-# Repository for the TensorFlow Roadshow in Milano - 6th Feb. 2020
+# TensorFlow Roadshow in Milano - 6th Feb. 2020
 
 ![](https://img.shields.io/badge/dependencies-TensorFlow20-blue)
 ![](https://img.shields.io/badge/dependencies-Jupyter-red)
