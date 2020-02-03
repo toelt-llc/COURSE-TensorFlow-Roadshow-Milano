@@ -62,7 +62,7 @@ Umberto Michelucci - Edge Computing with TensorFlow Lite - Hands on with Google 
 
 # Slides
 
-Slides for this workshop can be found here
+**Edge Computing with TensorFlow Lite - Hands on with Google Coral TPU Devices**
 
 Part 1: [TensorFlow 2.0 Introduction](https://docs.google.com/presentation/d/1x5hCQOkgXsTvWOVwU6Kf3tn1RxPY14kObxz9pR7q1GQ/edit#slide=id.g6d95d55f5c_0_1150)
 
