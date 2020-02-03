@@ -59,16 +59,8 @@ Pause / Coffee / Networking / Questions
 **20:00-21:00**
 
 Umberto Michelucci - Edge Computing with TensorFlow Lite - Hands on with Google Coral TPU Devices
-
-# Slides
-
-**Edge Computing with TensorFlow Lite - Hands on with Google Coral TPU Devices**
-
-Part 1: [TensorFlow 2.0 Introduction](https://docs.google.com/presentation/d/1x5hCQOkgXsTvWOVwU6Kf3tn1RxPY14kObxz9pR7q1GQ/edit#slide=id.g6d95d55f5c_0_1150)
-
-Part 2: [A TPU primer](https://docs.google.com/presentation/d/1itxw8EGG-K0LI-jrczWfZnWcsWM2a4zBkqGukVQ5QNw/edit?usp=sharing)
-
-Part 3: [TensorFlow Lite introduction](https://docs.google.com/presentation/d/1tyHy5kmu-f2vq4gcT-ny9eQVxk4BqL6scFRtfeFbtDw/edit?usp=sharing)
+Slides: [A TPU primer](https://docs.google.com/presentation/d/1itxw8EGG-K0LI-jrczWfZnWcsWM2a4zBkqGukVQ5QNw/edit?usp=sharing)
+, [TensorFlow Lite introduction](https://docs.google.com/presentation/d/1tyHy5kmu-f2vq4gcT-ny9eQVxk4BqL6scFRtfeFbtDw/edit?usp=sharing)
 
 
 ## Some material on Edge devices and TPUs
