@@ -8,9 +8,9 @@
 ![](https://img.shields.io/github/stars/michelucci/oreilly-london-ai.svg)
 ![](https://img.shields.io/github/issues/michelucci/oreilly-london-ai.svg)-->
 
-**Author**: Umberto Michelucci (umberto.michelucci@toelt.ai) - (C) 2020 - TOELT llc
+**Contact**: Umberto Michelucci (umberto.michelucci@toelt.ai) 
 
-This repository contains material, notebooks, scripts about Edge Computing and TensorFlow Lite.
+This repository contains material, notebooks, scripts for the TensorFlow Roadshow that will take place in Milano on the 6th Feb. 2020.
 
 Note that this repository will use relative linking. That means that
 all the documentations (markdown files) can be accessed directly
