@@ -40,23 +40,23 @@ on specific technical issues.
 # Agenda
 
 
-18:00-18:30
+**18:00-18:30**
 
 Luca Massaron - Deep Learning and Tabular Data - how to integrate TF / Keras with Scikit-Learn
 
-18:30-19:00
+**18:30-19:00**
 
 Paolo Galeone - @tf.function - how to use it efficiently in TensorFlow 2.0
 
-19:00-19:30
+**19:00-19:30**
 
 Simone Scardapane - Fairness in deep learning and the What-If Tool
 
-19:30-20:00 
+**19:30-20:00**
 
 Pause / Coffee / Networking / Questions
 
-20:00-21:00
+**20:00-21:00**
 
 Umberto Michelucci - Edge Computing with TensorFlow Lite - Hands on with Google Coral TPU Devices
 
