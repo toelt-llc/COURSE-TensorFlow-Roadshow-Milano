@@ -71,7 +71,7 @@ Part 2: [A TPU primer](https://docs.google.com/presentation/d/1itxw8EGG-K0LI-jrc
 Part 3: [TensorFlow Lite introduction](https://docs.google.com/presentation/d/1tyHy5kmu-f2vq4gcT-ny9eQVxk4BqL6scFRtfeFbtDw/edit?usp=sharing)
 
 
-## Table of Content of material covered in Meetup
+## Some material on Edge devices and TPUs
 
 ### Chapter 1 - Introduction and setup
 
