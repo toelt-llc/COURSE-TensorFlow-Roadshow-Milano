@@ -46,7 +46,8 @@ Luca Massaron - Deep Learning and Tabular Data - how to integrate TF / Keras wit
 
 **18:30-19:00**
 
-Paolo Galeone - @tf.function - how to use it efficiently in TensorFlow 2.0 - [SLIDES](https://pgaleone.eu/tf-function-talk/#slide=1)
+Paolo Galeone - @tf.function - how to use it efficiently in TensorFlow 2.0 
+- [SLIDES](https://pgaleone.eu/tf-function-talk/#slide=1)
 
 **19:00-19:30**
 
