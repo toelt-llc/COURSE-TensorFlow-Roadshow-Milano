@@ -52,6 +52,7 @@ Paolo Galeone - @tf.function - how to use it efficiently in TensorFlow 2.0
 **19:00-19:30**
 
 Simone Scardapane - Fairness in deep learning and the What-If Tool
+- [SLIDES](https://docs.google.com/presentation/d/1ayXNGFoyllZPElj1JrKjCl1AqQj-pzbmvn5SLVFjB3Q/edit?usp=sharing)
 
 **19:30-20:00**
 
