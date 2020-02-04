@@ -43,6 +43,7 @@ on specific technical issues.
 **18:00-18:30**
 
 Luca Massaron - Deep Learning and Tabular Data - how to integrate TF / Keras with Scikit-Learn
+- [SLIDES](https://github.com/lmassaron/deep_learning_for_tabular_data)
 
 **18:30-19:00**
 
